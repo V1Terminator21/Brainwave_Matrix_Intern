@@ -11,4 +11,4 @@ This repository contains SQL scripts to manage a relational database for a libra
 - Books
 - Borrowing
 
-Made with ❤️ by Vrushabh Tokse (MCA Student)
+Made by Vrushabh Tokse (MCA Student)
